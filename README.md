@@ -1,4 +1,4 @@
-### Hi there 👋
+### Well hello there! 👋
 
 
 - 🌱 I’m currently learning JavaScript
